@@ -1,0 +1,49 @@
+10
+
+dir
+5
+http://source.daumcorp.com/private/Kuhna/trunk/kuhna/src/main/java/kuhna
+http://source.daumcorp.com/private/Kuhna
+
+
+
+2011-10-21T11:32:37.774714Z
+4
+ajkuhn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f8bfc1a8-0708-0410-b811-d4a9d8773568
+
+ejb
+dir
+
+lang
+dir
+
+naming
+dir
+
+net
+dir
+
+servlet
+dir
+
+sql
+dir
+
+util
+dir
+

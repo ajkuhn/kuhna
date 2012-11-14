@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/sql/sentence
+END
+DeleteSentence.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/private/Kuhna/!svn/ver/9/trunk/kuhna/src/main/java/kuhna/sql/sentence/DeleteSentence.java
+END
+UpdateSentence.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/sql/sentence/UpdateSentence.java
+END
+WhereTerms.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/sql/sentence/WhereTerms.java
+END
+SelectSentence.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/private/Kuhna/!svn/ver/8/trunk/kuhna/src/main/java/kuhna/sql/sentence/SelectSentence.java
+END
+InsertSentence.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/sql/sentence/InsertSentence.java
+END
+InsertValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/sql/sentence/InsertValues.java
+END
+UpdateSets.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/sql/sentence/UpdateSets.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/private/Kuhna/!svn/ver/6/trunk/kuhna/src/main/java/kuhna/sql/sentence/Pair.java
+END
+Pairs.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/sql/sentence/Pairs.java
+END
+UpdateSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/sql/sentence/UpdateSet.java
+END
+InsertValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/sql/sentence/InsertValue.java
+END
+Function.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/private/Kuhna/!svn/ver/6/trunk/kuhna/src/main/java/kuhna/sql/sentence/Function.java
+END
+ParenthesesList.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/private/Kuhna/!svn/ver/6/trunk/kuhna/src/main/java/kuhna/sql/sentence/ParenthesesList.java
+END
+WhereTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/private/Kuhna/!svn/ver/7/trunk/kuhna/src/main/java/kuhna/sql/sentence/WhereTerm.java
+END
+SQLSentence.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/sql/sentence/SQLSentence.java
+END

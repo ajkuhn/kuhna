@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/servlet
+END
+TextBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/servlet/TextBody.java
+END
+ParamBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/servlet/ParamBody.java
+END
+MultipartBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/servlet/MultipartBody.java
+END
+Body.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/servlet/Body.java
+END

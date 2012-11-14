@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/naming
+END
+ContextProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/naming/ContextProvider.java
+END
+DefaultContextProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/naming/DefaultContextProvider.java
+END
+AbstractContextProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/naming/AbstractContextProvider.java
+END

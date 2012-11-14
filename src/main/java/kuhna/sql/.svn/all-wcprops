@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/sql
+END
+DefaultConnectionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/sql/DefaultConnectionProvider.java
+END
+ConnectionProviderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/sql/ConnectionProviderException.java
+END
+SQLUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/sql/SQLUtil.java
+END
+AbstractRemoteSQLActor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/sql/AbstractRemoteSQLActor.java
+END
+ConnectionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/sql/ConnectionProvider.java
+END
+DefaultRemoteSQLActor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/sql/DefaultRemoteSQLActor.java
+END
+SQLActorWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/sql/SQLActorWrapper.java
+END
+SQLCoActor.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/sql/SQLCoActor.java
+END
+AbstractSQLActor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/sql/AbstractSQLActor.java
+END
+DefaultSQLActor.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/sql/DefaultSQLActor.java
+END
+SQLActor.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/sql/SQLActor.java
+END
+AbstractConnectionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/sql/AbstractConnectionProvider.java
+END
+Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/sql/Record.java
+END

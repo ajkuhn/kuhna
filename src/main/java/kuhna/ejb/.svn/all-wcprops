@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/ejb
+END
+SQLEJBObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/ejb/SQLEJBObject.java
+END
+EJBProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/ejb/EJBProvider.java
+END
+DefaultEJBProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/ejb/DefaultEJBProvider.java
+END
+AbstractEJBProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/ejb/AbstractEJBProvider.java
+END
+AbstractSQLSessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/ejb/AbstractSQLSessionBean.java
+END
+DefaultSQLSessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/ejb/DefaultSQLSessionBean.java
+END
+EJBProviderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/private/Kuhna/!svn/ver/4/trunk/kuhna/src/main/java/kuhna/ejb/EJBProviderException.java
+END
